@@ -20,7 +20,7 @@
 ---
 
 # Projects:
-
+### DecHelper: Java Microservice app with AI - [DecHelper](https://github.com/PREZESjohn/DecHelper)
 ## TeamFinder:
 ### Backend - [TeamFinderBackend](https://github.com/Isveri/ProjectFinderBackend)
 ### Frontend - [TeamFinderFrontend](https://github.com/Isveri/ProjectFinderFrontend)
